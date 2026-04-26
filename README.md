@@ -1,4 +1,4 @@
-# codenova_project2
+# codea_nova_project2
 Hello
 
 My name is Aman.
